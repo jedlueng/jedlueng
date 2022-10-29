@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jedlueng
+- 👀 I’m interested in tech, books and fitness.
+- 🌱 I’m currently learning SQL and Python
+- 💞️ I’m looking to collaborate on machie-learning projects 
+- 📫 How to reach me -> jedlueng (telegram.
